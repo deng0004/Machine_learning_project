@@ -115,8 +115,8 @@ SimpleRNN	4	40	0.3256
 
 
 | Left-Aligned  | Center Aligned  | Right Aligned | accuracy |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+| :------------ |:---------------:| --------------| --------:|
+| col 3 is      | some wordy text | $1600 | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 

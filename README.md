@@ -15,3 +15,6 @@ Here is an example of the testing data result
 
 Example of autocorrelation plotfunction
 ![pic_1](https://user-images.githubusercontent.com/118713625/230785566-6129adc3-9e03-4726-9988-2a356834b0be.PNG)
+
+Example of the result of training data
+![pic_2](https://user-images.githubusercontent.com/118713625/230785665-c87bc445-4e99-4850-843d-a12d9ec3cb8d.PNG)

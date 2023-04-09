@@ -107,17 +107,20 @@ SimpleRNN	4	20	0.3333
 SimpleRNN	4	40	0.3256
 
 
-<!-- | neurons  | layers  | time steps | accuracy |
-| :------------ |:---------------:| -----:|
-|LSTM     | 2 | 10 | 0.1943      |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 | -->
+
 
 
 | neurons | layers | time steps | accuracy |
 | :------------ |:---------------:| --------------| --------:|
 | LSTM     | 2 | 10 | 0.1943      |
-| col 3 is      | some wordy text | $1600 | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| LSTM     | 2 | 20 | 0.2759      |
+| LSTM     | 2 | 40 | 0.4419      |
+|      |  |  |      |
+| LSTM     | 2 | 10 | 0.1943      |
+| LSTM     | 2 | 10 | 0.1943      |
+
+
+
+
+
 

@@ -114,8 +114,9 @@ SimpleRNN	4	40	0.3256
 | zebra stripes | are neat        |    $1 | -->
 
 
-| neurons  | layers  | time steps | accuracy |
+| neurons | layers | time steps | accuracy |
 | :------------ |:---------------:| --------------| --------:|
+| LSTM     | 2 | 10 | 0.1943      |
 | col 3 is      | some wordy text | $1600 | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |

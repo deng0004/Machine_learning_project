@@ -20,8 +20,9 @@ Example of the result of training data
 ![pic_2](https://user-images.githubusercontent.com/118713625/230785665-c87bc445-4e99-4850-843d-a12d9ec3cb8d.PNG)
 
 ### Explanation of neural network model
+In this neural network, I used simpleRNN, GRU, LSTM with different layers. Below are the results for LSTM and simpleRNN for 3 different datasets. 
 
-
+### Results of neural network 
 traning_data_sets			
 			
 | neurons | layers | time steps | accuracy |

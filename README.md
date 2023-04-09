@@ -106,3 +106,9 @@ SimpleRNN	4	10	0.3314
 SimpleRNN	4	20	0.3333
 SimpleRNN	4	40	0.3256
 
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |

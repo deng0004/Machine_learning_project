@@ -24,60 +24,63 @@ Example of the result of training data
 
 traning_data_sets			
 			
-neurons	layers	time steps	accuracy
-LSTM	    2	        10	     0.5993
-LSTM	    2	        20	     0.5431
-LSTM	    2	        40	     0.4195
-			
-LSTM	3	10	0.8436
-LSTM	3	20	0.8071
-LSTM	3	40	0.6404
-			
-LSTM	4	10	0.8146
-LSTM	4	20	0.6592
-LSTM	4	40	0.5094
-			
-SimpleRNN	2	10	0.2603
-SimpleRNN	2	20	0.4307
-SimpleRNN	2	40	0.3708
-			
-SimpleRNN	3	10	0.4522
-SimpleRNN	3	20	0.3352
-SimpleRNN	3	40	0.4644
-			
-SimpleRNN	4	10	0.265
-SimpleRNN	4	20	0.2622
-SimpleRNN	4	40	0.2547
+| neurons | layers | time steps | accuracy |
+| :------------ |:---------------:| --------------| --------:|
+| LSTM     | 2 | 10 | 0.1943      |
+| LSTM     | 2 | 20 | 0.2759      |
+| LSTM     | 2 | 40 | 0.4419      |
+|      |  |  |      |
+| LSTM     | 3 | 10 | 0.6      |
+| LSTM     | 3 | 20 | 0.4318      |
+| LSTM     | 3 | 40 | 0.4186      |
+|      |  |  |      |
+| LSTM     | 4 | 10 | 0.3314      |
+| LSTM     | 4 | 20 | 0.3333      |
+| LSTM     | 4 | 40 | 0.3953     |
+|      |  |  |      |
+| SimpleRNN     | 2 | 10 | 0.0914|     
+| SimpleRNN     | 2 | 20 | 0.1034|     
+| SimpleRNN     | 2 | 40 | 0.2093|     
+|      |  |  |      |
+| SimpleRNN     | 3 | 10 | 0.3714|     
+| SimpleRNN     | 3 | 20 | 0.3563|     
+| SimpleRNN     | 3 | 40 | 0.4884|     
+|      |  |  |     |
+| SimpleRNN     | 4 | 10 | 0.3314|     
+| SimpleRNN     | 4 | 20 | 0.3333|     
+| SimpleRNN     | 4 | 40 | 0.3256|     
+
 			
 			
 			
 testing_data_sets			
 			
-neurons	layers	time steps	accuracy
-LSTM	2	10	0.2731
-LSTM	2	20	0.3981
-LSTM	2	40	0.2407
-			
-LSTM	3	10	0.6343
-LSTM	3	20	0.5093
-LSTM	3	40	0.444
-			
-LSTM	4	10	0.287
-LSTM	4	20	0.2685
-LSTM	4	40	0.2593
-			
-SimpleRNN	2	10	0.3056
-SimpleRNN	2	20	0.2407
-SimpleRNN	2	40	0.3333
-			
-SimpleRNN	3	10	0.287
-SimpleRNN	3	20	0.3519
-SimpleRNN	3	40	0.2593
-			
-SimpleRNN	4	10	0.287
-SimpleRNN	4	20	0.2685
-SimpleRNN	4	40	0.2593
-			
+| neurons | layers | time steps | accuracy |
+| :------------ |:---------------:| --------------| --------:|
+| LSTM     | 2 | 10 | 0.1943      |
+| LSTM     | 2 | 20 | 0.2759      |
+| LSTM     | 2 | 40 | 0.4419      |
+|      |  |  |      |
+| LSTM     | 3 | 10 | 0.6      |
+| LSTM     | 3 | 20 | 0.4318      |
+| LSTM     | 3 | 40 | 0.4186      |
+|      |  |  |      |
+| LSTM     | 4 | 10 | 0.3314      |
+| LSTM     | 4 | 20 | 0.3333      |
+| LSTM     | 4 | 40 | 0.3953     |
+|      |  |  |      |
+| SimpleRNN     | 2 | 10 | 0.0914|     
+| SimpleRNN     | 2 | 20 | 0.1034|     
+| SimpleRNN     | 2 | 40 | 0.2093|     
+|      |  |  |      |
+| SimpleRNN     | 3 | 10 | 0.3714|     
+| SimpleRNN     | 3 | 20 | 0.3563|     
+| SimpleRNN     | 3 | 40 | 0.4884|     
+|      |  |  |     |
+| SimpleRNN     | 4 | 10 | 0.3314|     
+| SimpleRNN     | 4 | 20 | 0.3333|     
+| SimpleRNN     | 4 | 40 | 0.3256|     
+
 			
 			
 		

@@ -8,6 +8,8 @@ I chose running, walking, jumping and bend_knee during the moment of collecting 
 ### Explanation of machine learning model
 I chose KNeighborsClassifier, because this machine learning is classification model. Also, KNN has the property of find how spread are the data surrounding by the K-value. Besides, using grid search can let me to pick my k-value, weight and display the accuracy. 
 
+# [sklearn_ml.html](https://deng0004.github.io/Machine_learning_project/sklearn_ml.html)
+
 ### Results of machine learning. 
 In the end, the value of count, mean, std, min, 25%, 50%, 75% and max will be display in a table format. Also, finding the correlation  
 Here is an example of the testing data result

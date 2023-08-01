@@ -85,8 +85,6 @@ testing_data_sets
 			
 
 
-| SimpleRNN     | 4 | 10 | 0.3314|     
-| SimpleRNN     | 4 | 20 | 0.3333|     
-| SimpleRNN     | 4 | 40 | 0.3256|     
+    
 
 

@@ -83,37 +83,9 @@ testing_data_sets
 | SimpleRNN     | 4 | 40 | 0.2593|     
 
 			
-testing_data_sets	(testing )		
-			
-| neurons | layers | time steps | accuracy |
-| :------------ |:---------------:| --------------| --------:|
-| LSTM     | 2 | 10 | 0.2731      |
-| LSTM     | 2 | 20 | 0.3981      |
-| LSTM     | 2 | 40 | 0.2407      |
-|      |  |  |      |
-| LSTM     | 3 | 10 | 0.6343      |
-| LSTM     | 3 | 20 | 0.5093      |
-| LSTM     | 3 | 40 | 0.444      |
-|      |  |  |      |
-| LSTM     | 4 | 10 | 0.287      |
-| LSTM     | 4 | 20 | 0.2685      |
-| LSTM     | 4 | 40 | 0.2593     |
-|      |  |  |      |
-| SimpleRNN     | 2 | 10 | 0.3056|     
-| SimpleRNN     | 2 | 20 | 0.2407|     
-| SimpleRNN     | 2 | 40 | 0.3333|     
-|      |  |  |      |
-| SimpleRNN     | 3 | 10 | 0.287|     
-| SimpleRNN     | 3 | 20 | 0.3519|     
-| SimpleRNN     | 3 | 40 | 0.2593|     
-|      |  |  |     |
-| SimpleRNN     | 4 | 10 | 0.287|     
-| SimpleRNN     | 4 | 20 | 0.2685|     
-| SimpleRNN     | 4 | 40 | 0.2593|   
-		
-
 
 Moments are done continuously	
+
 | neurons | layers | time steps | accuracy |
 | :------------ |:---------------:| --------------| --------:|
 | LSTM     | 2 | 10 | 0.1943      |
